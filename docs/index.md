@@ -1,6 +1,6 @@
 # BioExcel documentation space
 
-![BioExcel](assets/img/bioexcel.svg)
+{{ site.description }}
 
 ## BioExcel Knowledge Centre
 
