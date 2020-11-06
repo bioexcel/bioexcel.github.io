@@ -13,24 +13,25 @@
 
 These best practice guides have been developed by BioExcel:
 
-* [HADDOCK best practice guide](https://www.bonvinlab.org/software/bpg/)
-* [Packaging BioCompute Objects using RO-Crate](https://biocompute-objects.github.io/bco-ro-crate/)
+* [HADDOCK best practice guide](https://www.bonvinlab.org/software/bpg/) [[suggest changes](https://github.com/haddocking/haddocking.github.io/tree/master/software/bpg)]
+* [Packaging BioCompute Objects using RO-Crate](https://biocompute-objects.github.io/bco-ro-crate/) [[suggest changes](https://github.com/biocompute-objects/bco-ro-crate/)]
 
 
 These guides are under development:
-* [Creating workflows with Common Workflow Language](/cwl-best-practice-guide)
-* [How to choose which CWL workflow engine to deploy](/cwl-engine-guide/)
-* [Primer on workflow packaging and metadata standards](https://docs.google.com/document/d/1XREgfYNi7l4HbdrnXBs7Uv1tMH2AiR435SKjisu4l30/edit#)
+* [Creating workflows with Common Workflow Language](/cwl-best-practice-guide/) [[suggest changes](https://github.com/bioexcel/cwl-best-practice-guide)]
+* [How to choose which CWL workflow engine to deploy](/cwl-engine-guide/) [[suggest changes](https://github.com/bioexcel/cwl-engine-guide)]
+* [Primer on workflow packaging and metadata standards](https://docs.google.com/document/d/1XREgfYNi7l4HbdrnXBs7Uv1tMH2AiR435SKjisu4l30/edit#) [[suggest changes](https://docs.google.com/document/d/1XREgfYNi7l4HbdrnXBs7Uv1tMH2AiR435SKjisu4l30/edit)]
 * QM/MM using GROMACS+CP2K
-* GROMACS Best Practice Guide
+* GROMACS Best Practice Guide <!-- [[suggest changes](https://github.com/bioexcel/gromacs_bpg)] -->
 * Alchemical free energy calculations based on non-equilibrium sampling
 
+Most of these guides are developed openly, and we **welcome contributions**. See _suggest changes_ links above.
 
 ## Code documentation
 
 The individual [codes](https://bioexcel.eu/software/) and tools developed by, contributed by and used by BioExcel have their own documentation spaces:
 
-* [GROMACS documentation](http://manual.gromacs.org/)
+* [GROMACS documentation](http://manual.gromacs.org/) [[suggest changes]()]
 * [GROMACS: Getting good performance from mdrun](http://manual.gromacs.org/current/user-guide/mdrun-performance.html)
 * [HADDOCK 2.2 Manual](https://www.bonvinlab.org/software/haddock2.2/manual/)
 * [HADDOCK 2.4 Manual](https://www.bonvinlab.org/software/haddock2.4/manual/)
@@ -39,9 +40,9 @@ The individual [codes](https://bioexcel.eu/software/) and tools developed by, co
 * [CP2K Manuals](http://pmx.mpibpc.mpg.de/instructions.html)
 * [CPMD documentation](https://www.cpmd.org/wordpress/index.php/documentation/)
 * [CPMD manual (PDF)](https://www.cpmd.org/wordpress/CPMD/getFile.php?file=manual.pdf)
-* [BioExcel Building Blocks (BioBB)](http://mmb.irbbarcelona.org/biobb/)
+* [BioExcel Building Blocks (BioBB)](http://mmb.irbbarcelona.org/biobb/) 
 * [BioBB workflows](http://mmb.irbbarcelona.org/biobb/workflows)
-* [Common Workflow Language user guide](https://www.commonwl.org/user_guide/)
+* [Common Workflow Language user guide](https://www.commonwl.org/user_guide/) [[suggest changes](https://github.com/common-workflow-language/user_guide/)]
 
 ## White-papers and related publications
 
