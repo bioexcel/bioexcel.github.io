@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+logo: assets/img/bioexcel.svg
+site:
+  title: BioExcel Documentation space
+  description: Collection of documentation and Best Practice Guides for BioExcel software
