@@ -35,7 +35,7 @@ Some of the pages are edited using [Github Pages](https://pages.github.com/), if
 Source you may appreciate the [GitHub guides](https://guides.github.com/) like
 [Hello World](https://guides.github.com/activities/hello-world/),
 [MarkDown](https://guides.github.com/features/mastering-markdown/) and [How to
-contribute to open source](https://opensource.guide/how-to-contribute/)
+contribute to open source](https://opensource.guide/how-to-contribute/).
 
 
 ## Code documentation
