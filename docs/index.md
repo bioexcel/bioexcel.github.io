@@ -2,6 +2,8 @@
 
 {{ site.description }}
 
+For further information, see the main [https://bioexcel.eu](bioexcel.eu) website.
+
 ## BioExcel Knowledge Centre
 
 * [Training resources](https://krc.bioexcel.eu/training)
@@ -25,7 +27,16 @@ These guides are under development:
 * GROMACS Best Practice Guide <!-- [[suggest changes](https://github.com/bioexcel/gromacs_bpg)] -->
 * Alchemical free energy calculations based on non-equilibrium sampling
 
+### Contributing to guides
+
 Most of these guides are developed openly, and we **welcome contributions**. See _suggest changes_ links above.
+
+Some of the pages are edited using [Github Pages](https://pages.github.com/), if you are new to GitHub or contributing to Open
+Source you may appreciate the [GitHub guides](https://guides.github.com/) like
+[Hello World](https://guides.github.com/activities/hello-world/),
+[MarkDown](https://guides.github.com/features/mastering-markdown/) and [How to
+contribute to open source](https://opensource.guide/how-to-contribute/)
+
 
 ## Code documentation
 
@@ -65,10 +76,12 @@ See also [BioExcel publications](https://bioexcel.eu/category/publications/) and
 
 ## BioExcel website
 
-* <https://bioexcel.eu/>
-* <https://bioexcel.eu/software/>
-* <https://bioexcel.eu/category/publications/>
-* <https://bioexcel.eu/category/webinar/>
-* <https://bioexcel.eu/services/training/>
-* <https://krc.bioexcel.eu/>
-* <https://ask.bioexcel.eu/>
+The main [bioexcel.eu](https://bioexcel.eu/) website includes several sections relevant for documentation and knowledge dissemination:
+
+- [Software by BioExcel](https://bioexcel.eu/software/)
+- [Publications by BioExcel](https://bioexcel.eu/category/publications/)
+- [Webinars by BioExcel](https://bioexcel.eu/category/webinar/)
+- [Training by BioExcel](https://bioexcel.eu/services/training/)
+- [BioExcel Knowledge Resource Centre](https://krc.bioexcel.eu/)
+- [ask.bioexcel.eu](https://ask.bioexcel.eu/) forum for HADDOCK, DISVIS, POWERFIT, PRODIGY, SPOTON, PDB-tools, pmx, MDWeb, BioBB, Workflows, QM/MM, etc.
+- [Gromacs user forum](https://gromacs.bioexcel.eu/)
