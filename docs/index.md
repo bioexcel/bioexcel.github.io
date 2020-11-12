@@ -8,6 +8,7 @@ For further information, see the main [https://bioexcel.eu](bioexcel.eu) website
 
 * [Training resources](https://krc.bioexcel.eu/training)
 * [Competencies](https://krc.bioexcel.eu/competencies)
+* [BioExcel competency framework](https://competency.ebi.ac.uk/framework/bioexcel/2.0)
 
 <!-- TODO: Integrate this page also into krc -->
 
