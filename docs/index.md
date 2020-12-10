@@ -51,11 +51,13 @@ The individual [codes](https://bioexcel.eu/software/) and tools developed by, co
 
 * [GROMACS documentation](http://manual.gromacs.org/) [[suggest changes]()]
 * [GROMACS: Getting good performance from mdrun](http://manual.gromacs.org/current/user-guide/mdrun-performance.html)
+* [GROMACS: From Proteins to Perturbed Hamiltonians: A Suite of Tutorials for the GROMACS-2018 Molecular Simulation Package](https://doi.org/10.33011/livecoms.1.1.5068)
 * [HADDOCK 2.2 Manual](https://www.bonvinlab.org/software/haddock2.2/manual/)
 * [HADDOCK 2.4 Manual](https://www.bonvinlab.org/software/haddock2.4/manual/)
 * [PDB tools](https://www.bonvinlab.org/pdb-tools/)
 * [PMX instructions](http://pmx.mpibpc.mpg.de/instructions.html)
 * [CP2K Manuals](http://pmx.mpibpc.mpg.de/instructions.html)
+* [CP2k Howto: QMMM for biochemical systems](https://www.cp2k.org/howto:biochem_qmmm)
 * [CPMD documentation](https://www.cpmd.org/wordpress/index.php/documentation/)
 * [CPMD manual (PDF)](https://www.cpmd.org/wordpress/CPMD/getFile.php?file=manual.pdf)
 * [BioExcel Building Blocks (BioBB)](http://mmb.irbbarcelona.org/biobb/) 
@@ -79,7 +81,7 @@ These publications and white-papers by BioExcel authors include aspects of best-
 * The role of metadata in reproducible computational research (2020): <https://arxiv.org/abs/2006.08589>
 * BioExcel Building Blocks, a software library for interoperable biomolecular simulation workflows <https://doi.org/10.1038/s41597-019-0177-4>
 
-See also [BioExcel publications](https://bioexcel.eu/category/publications/) and the individual [software project pages](* <https://bioexcel.eu/software/>) for a complete list of publications.
+See also [BioExcel publications](https://bioexcel.eu/category/publications/) and the individual [software project pages](https://bioexcel.eu/software/) for a complete list of publications.
 
 ## BioExcel website
 
