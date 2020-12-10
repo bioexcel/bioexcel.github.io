@@ -87,7 +87,7 @@ See also [BioExcel publications](https://bioexcel.eu/category/publications/) and
 
 ## BioExcel website
 
-The main [bioexcel.eu](https://bioexcel.eu/) website includes several sections relevant for documentation and knowledge dissemination:
+The [bioexcel.eu](https://bioexcel.eu/) website includes several sections relevant for documentation and knowledge dissemination:
 
 - [Software by BioExcel](https://bioexcel.eu/software/)
 - [Publications by BioExcel](https://bioexcel.eu/category/publications/)
