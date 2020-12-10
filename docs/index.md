@@ -32,13 +32,15 @@ We would like to stress that, while communities and experts have been consulted,
 
 ### Contributing to guides
 
-Most of these guides are developed openly as **living document**, and we **welcome contributions** and suggestions for improvements. See _suggest changes_ links above where you can raise an _Issue_ or a _Pull Request_.
+Most of these guides are developed openly as **living documents**, and we **welcome contributions** and suggestions for improvements. See _suggest changes_ links above where you can raise an _Issue_ or submit changes as a _Pull Request_ with a [GitHub](https://github.com/) account.
 
 Some of the pages are edited using [Github Pages](https://pages.github.com/), if you are new to GitHub or contributing to Open
 Source you may appreciate the [GitHub guides](https://guides.github.com/) like
 [Hello World](https://guides.github.com/activities/hello-world/),
 [MarkDown](https://guides.github.com/features/mastering-markdown/) and [How to
-contribute to open source](https://opensource.guide/how-to-contribute/).
+contribute to open source](https://opensource.guide/how-to-contribute/). 
+
+Guides BPG1 and BPG2 are rendered using [Sphinx](https://www.sphinx-doc.org/en/master/) which uses the format [reStructured Text](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html), similar to MarkDown.
 
 ### Asking BioExcel
 
