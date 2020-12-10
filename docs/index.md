@@ -2,7 +2,7 @@
 
 {{ site.description }}
 
-For further information, see the main [https://bioexcel.eu](bioexcel.eu) website.
+For further information, see the [https://bioexcel.eu](bioexcel.eu) website.
 
 ## BioExcel Knowledge Centre
 
