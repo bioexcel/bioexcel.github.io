@@ -81,21 +81,41 @@ You can also use the BioExcel forum to suggest changes to the guides.
 
 The individual [codes](https://bioexcel.eu/software/) and tools developed by, contributed by and used by BioExcel have their own documentation spaces:
 
-* [GROMACS documentation](http://manual.gromacs.org/) [[suggest changes]()]
-* [GROMACS: Getting good performance from mdrun](http://manual.gromacs.org/current/user-guide/mdrun-performance.html)
-* [GROMACS: From Proteins to Perturbed Hamiltonians: A Suite of Tutorials for the GROMACS-2018 Molecular Simulation Package](https://doi.org/10.33011/livecoms.1.1.5068)
-* [HADDOCK 2.2 Manual](https://www.bonvinlab.org/software/haddock2.2/manual/)
-* [HADDOCK 2.4 Manual](https://www.bonvinlab.org/software/haddock2.4/manual/)
+* [GROMACS](http://www.gromacs.org/)
+  - [GROMACS documentation](http://manual.gromacs.org/) [[suggest changes](https://github.com/gromacs/gromacs/tree/master/docs)]
+  - [GROMACS user guide](http://manual.gromacs.org/current/user-guide/index.html)
+  - [GROMACS HowTo guides](http://manual.gromacs.org/current/how-to/index.html)
+  - [GROMACS reference manual](http://manual.gromacs.org/current/reference-manual/index.html)
+  - [GROMACS: Getting good performance from mdrun](http://manual.gromacs.org/current/user-guide/mdrun-performance.html)
+  - [GROMACS: From Proteins to Perturbed Hamiltonians: A Suite of Tutorials for the GROMACS-2018 Molecular Simulation Package](https://doi.org/10.33011/livecoms.1.1.5068)
+* [HADDOCK](https://www.bonvinlab.org/software/#haddock)
+  - [HADDOCK 2.2 Manual](https://www.bonvinlab.org/software/haddock2.2/manual/)
+  - [HADDOCK 2.4 Manual](https://www.bonvinlab.org/software/haddock2.4/manual/)
 * [PDB tools](https://www.bonvinlab.org/pdb-tools/)
-* [PMX instructions](http://pmx.mpibpc.mpg.de/instructions.html)
-* [CP2K Manuals](http://pmx.mpibpc.mpg.de/instructions.html)
-* [CP2k Howto: QMMM for biochemical systems](https://www.cp2k.org/howto:biochem_qmmm)
-* [CPMD documentation](https://www.cpmd.org/wordpress/index.php/documentation/)
-* [CPMD manual (PDF)](https://www.cpmd.org/wordpress/CPMD/getFile.php?file=manual.pdf)
+* [PMX](http://pmx.mpibpc.mpg.de/)
+  - [PMX instructions](http://pmx.mpibpc.mpg.de/instructions.html)
+  - [PMX tutorials](http://pmx.mpibpc.mpg.de/tutorial.html)
+* [CP2K](https://www.cp2k.org/)
+  - [CP2K manual index](https://manual.cp2k.org/)  
+  - [CP2k manual (7.1)](https://manual.cp2k.org/cp2k-7_1-branch/index.html)
+  - [CP2k manual (development version)](https://manual.cp2k.org/trunk/index.html)
+  - [CP2k Howto: QMMM for biochemical systems](https://www.cp2k.org/howto:biochem_qmmm)
+* [CPMD](https://www.cpmd.org/)
+  - [CPMD documentation](https://www.cpmd.org/wordpress/index.php/documentation/)
+  - [CPMD manual (PDF)](https://www.cpmd.org/wordpress/CPMD/getFile.php?file=manual.pdf)
 * [BioExcel Building Blocks (BioBB)](http://mmb.irbbarcelona.org/biobb/) 
-* [BioBB workflows](http://mmb.irbbarcelona.org/biobb/workflows)
-* [Common Workflow Language user guide](https://www.commonwl.org/user_guide/) [[suggest changes](https://github.com/common-workflow-language/user_guide/)]
-
+  - [BioBB tutorials](http://mmb.irbbarcelona.org/biobb/availability/tutorials)
+  - [BioBB workflows](http://mmb.irbbarcelona.org/biobb/workflows) (incl workflow tutorials)
+  - [BioBB source/docs](http://mmb.irbbarcelona.org/biobb/availability/source) per building block
+* [Common Workflow Language](https://www.commonwl.org/)
+  - [Common Workflow Language User Guide](https://www.commonwl.org/user_guide/) [[suggest changes](https://github.com/common-workflow-language/user_guide/)]
+  - [Common Workflow Language User Guide: Recommended Practices](https://www.commonwl.org/user_guide/rec-practices/)
+  - [Dockstore: CWL Best Practices](https://docs.dockstore.org/en/develop/advanced-topics/best-practices/best-practices.html)
+  - [Arvados: Best Practices for writing CWL](https://doc.arvados.org/v1.4/user/cwl/cwl-style.html)
+  - [CWL 1.2 specification](https://www.commonwl.org/v1.2/)
+  - [Common Workflow Language with BioExcel Building Blocks](https://mmb.irbbarcelona.org/biobb/availability/tutorials/cwl)
+  
+  
 ## White-papers and related publications
 
 These publications and white-papers by BioExcel authors include aspects of best-practice guidance:
