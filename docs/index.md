@@ -32,20 +32,50 @@ We would like to stress that, while communities and experts have been consulted,
 
 ### Contributing to guides
 
-Most of these guides are developed openly as **living documents**, and we **welcome contributions** and suggestions for improvements. See _suggest changes_ links above where you can raise an _Issue_ or submit changes as a _Pull Request_ with a [GitHub](https://github.com/) account.
+Most of these guides are developed openly as **living documents**, and we **welcome contributions** and suggestions for improvements. 
+
+See _suggest changes_ links above where you can raise an _Issue_ or submit changes as a _Pull Request_ with a [GitHub](https://github.com/) account.
+
+If you prefer, you can instead suggest changes to the guides by posting a question in the [BioExcel forum](https://ask.bioexcel.eu/). Please include the URL to the relevant page.
+
+#### Editing with GitHub
 
 Some of the pages are edited using [Github Pages](https://pages.github.com/), if you are new to GitHub or contributing to Open
 Source you may appreciate the [GitHub guides](https://guides.github.com/) like
 [Hello World](https://guides.github.com/activities/hello-world/),
 [MarkDown](https://guides.github.com/features/mastering-markdown/) and [How to
-contribute to open source](https://opensource.guide/how-to-contribute/). 
+contribute to open source](https://opensource.guide/how-to-contribute/).
+
+In short:
+
+* Register/log in to <http://github.com/>
+* Open corresponding "suggest changes" repository link above.
+  - Navigate to the `*.md` or `*.rst` file corresponding to the rendered HTML file. 
+  - You may need to go into `docs/` subfolder.
+* Click "🖉 Edit" to edit file within GitHub UI. GH will make a _branch_ in a _fork_ repository stored under your own account.
+* Add/change text
+  - Use the corresponding [MarkDown](https://guides.github.com/features/mastering-markdown/) or [reStructured Text](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) syntax
+  - If not sure, just use **plain text**.
+* Commit, briefly summarize your changes, e.g. _Fixed download link_
+  - Commit often so changes are small!
+  - For larger edits/reorganization, instead raise an _Issue_ to discuss best way forward
+* Raise a _Pull Request_ (PR) to suggest we incorporate changes from your branch.
+  - In the PR description, briefly summarize your changes.
+  - Respond to comments/email notifications in case we have any questions
+* Further unrelated changes? Make a new PR with a new branch.
 
 Guides BPG1 and BPG2 are rendered using [Sphinx](https://www.sphinx-doc.org/en/master/) which uses the format [reStructured Text](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html), similar to MarkDown.
 
+To update _this_ documentation index page <https://docs.bioexcel.eu/>, edit [index.md](https://github.com/bioexcel/bioexcel.github.io/blob/main/docs/index.md) at <https://github.com/bioexcel/bioexcel.github.io>
+
+
+
 ### Asking BioExcel
 
-If you have a question not answered by the guides or the code documentation, or you have suggestions for oour best pratice guides, 
-you may also contact us on the forum <https://ask.bioexcel.eu/> 
+If you have a question not answered by the guides or the code documentation, or you have suggestions for our best pratice guides, 
+you may also contact us on the [BioExcel forum](https://ask.bioexcel.eu/).
+
+You can also use the BioExcel forum to suggest changes to the guides.
 
 ## Code documentation
 
