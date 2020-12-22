@@ -16,19 +16,19 @@ For further information, see the [https://bioexcel.eu](bioexcel.eu) website.
 
 These _best practice guides_ have been developed by BioExcel:
 
-* BPG1: [Biomolecular QM/MM with CP2K](https://docs.bioexcel.eu/qmmm_bpg/) [[suggest changes](https://github.com/bioexcel/qmmm_bpg)]
-* BPG2: [GROMACS Best Practice Guide](https://docs.bioexcel.eu/gromacs_bpg/)  [[suggest changes](https://github.com/bioexcel/gromacs_bpg)] 
+* [Biomolecular QM/MM with CP2K](https://docs.bioexcel.eu/qmmm_bpg/) [[suggest changes](https://github.com/bioexcel/qmmm_bpg)]
+* [GROMACS Best Practice Guide](https://docs.bioexcel.eu/gromacs_bpg/)  [[suggest changes](https://github.com/bioexcel/gromacs_bpg)] 
   - incl. [GROMACS Performance Cookbook](https://docs.bioexcel.eu/gromacs_bpg/en/master/cookbook/cookbook.html)
-* BPG3: [Creating workflows with Common Workflow Language](/cwl-best-practice-guide/) [[suggest changes](https://github.com/bioexcel/cwl-best-practice-guide)]
-* BPG5: [HADDOCK best practice guide](https://www.bonvinlab.org/software/bpg/) [[suggest changes](https://github.com/haddocking/haddocking.github.io/tree/master/software/bpg)]
-* BPG6: [How to choose which CWL workflow engine to deploy](/cwl-engine-guide/) [[suggest changes](https://github.com/bioexcel/cwl-engine-guide)]
-* BPG7: [Packaging BioCompute Objects using RO-Crate](https://biocompute-objects.github.io/bco-ro-crate/) [[suggest changes](https://github.com/biocompute-objects/bco-ro-crate/)]
+* [Creating workflows with Common Workflow Language](/cwl-best-practice-guide/) [[suggest changes](https://github.com/bioexcel/cwl-best-practice-guide)]
+* [HADDOCK best practice guide](https://www.bonvinlab.org/software/bpg/) [[suggest changes](https://github.com/haddocking/haddocking.github.io/tree/master/software/bpg)]
+* [How to choose which CWL workflow engine to deploy](/cwl-engine-guide/) [[suggest changes](https://github.com/bioexcel/cwl-engine-guide)]
+* [Packaging BioCompute Objects using RO-Crate](https://biocompute-objects.github.io/bco-ro-crate/) [[suggest changes](https://github.com/biocompute-objects/bco-ro-crate/)]
 
 These guides are under development:
 * [Primer on workflow packaging and metadata standards](https://docs.google.com/document/d/1XREgfYNi7l4HbdrnXBs7Uv1tMH2AiR435SKjisu4l30/edit#) [[suggest changes](https://docs.google.com/document/d/1XREgfYNi7l4HbdrnXBs7Uv1tMH2AiR435SKjisu4l30/edit)]
-* BPG4: _Alchemical free energy calculations based on non-equilibrium sampling_
+* _Alchemical free energy calculations based on non-equilibrium sampling_
 
-We would like to stress that, while communities and experts have been consulted, these are **opinionated guidelines**; individual researchers would still need to evaluate and find the best approach for their particular circumstances and use cases. 
+In addition to general best practice guidance the guides reflect experience built up over time using the codes and workflow tools in specific application areas. Individual researchers may therefore need to tailor this guidance to find the best approach in light of their particular circumstances and use cases.  
 
 ### Contributing to guides
 
