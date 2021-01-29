@@ -91,6 +91,8 @@ The individual [codes](https://bioexcel.eu/software/) and tools developed by, co
 * [HADDOCK](https://www.bonvinlab.org/software/#haddock)
   - [HADDOCK 2.2 Manual](https://www.bonvinlab.org/software/haddock2.2/manual/)
   - [HADDOCK 2.4 Manual](https://www.bonvinlab.org/software/haddock2.4/manual/)
+  - [HADDOCK 2.4 Tutorials](https://www.bonvinlab.org/education/HADDOCK24/)
+  - [Bonvin Lab lectures/tutorials](https://www.bonvinlab.org/education/)
 * [PDB tools](https://www.bonvinlab.org/pdb-tools/)
 * [PMX](http://pmx.mpibpc.mpg.de/)
   - [PMX instructions](http://pmx.mpibpc.mpg.de/instructions.html)
