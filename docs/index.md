@@ -126,7 +126,8 @@ The individual [codes](https://bioexcel.eu/software/) and tools developed by, co
   - [Arvados: Best Practices for writing CWL](https://doc.arvados.org/v1.4/user/cwl/cwl-style.html)
   - [CWL 1.2 specification](https://www.commonwl.org/v1.2/)
   - [Common Workflow Language with BioExcel Building Blocks](https://mmb.irbbarcelona.org/biobb/availability/tutorials/cwl)
-  
+  - [Common Workflow Language for Bioinformatics](https://www.melbournebioinformatics.org.au/tutorials/tutorials/cwl/cwl/) by [Melbourne Bioinformatics
+](https://www.melbournebioinformatics.org.au/) 
   
 ## White-papers and related publications
 
