@@ -128,18 +128,21 @@ The individual [codes](https://bioexcel.eu/software/) and tools developed by, co
   - [Common Workflow Language with BioExcel Building Blocks](https://mmb.irbbarcelona.org/biobb/availability/tutorials/cwl)
   - [Common Workflow Language for Bioinformatics](https://www.melbournebioinformatics.org.au/tutorials/tutorials/cwl/cwl/) by [Melbourne Bioinformatics
 ](https://www.melbournebioinformatics.org.au/) 
-* Sharing reproducible Computational software/workflows (From literature)
+* Sharing reproducible software/workflows/data (From literature)
   - [FAIR Computational Workflows](https://doi.org/10.1162/dint_a_00033)
+  - [Robust cross-platform workflows: how technical and scientific communities collaborate to develop, test and share best practices for data analysis.](https://doi.org/10.1007/s41019-017-0050-4)
   - [Streamlining data-intensive biology with workflow systems](https://doi.org/10.1093/gigascience/giaa140)
--   [Ten Simple Rules for Reproducible Computational Research](https://doi.org/10.1371/journal.pcbi.1003285) 
--   [Ten Simple Rules for Developing Usable Software in Computational Biology](https://doi.org/10.1371/journal.pcbi.1005265)
--   [Ten simple rules for documenting scientific software](https://doi.org/10.1371/journal.pcbi.1006561)
--   [Toward standard practices for sharing computer code and programs in neuroscience](https://doi.org/10.1038/nn.4550).
--   [Robust cross-platform workflows: how technical and scientific communities collaborate to develop, test and share best practices for data analysis.](https://doi.org/10.1007/s41019-017-0050-4)
--   [Four simple recommendations to encourage best practices in research software](https://doi.org/10.12688/f1000research.11407.1)
--   [Software in reproducible research: advice and best practice collected from experiences at the collaborations workshop](https://doi.org/10.1145/2618137.2618140)
--   [Ten Simple Rules for the Care and Feeding of Scientific Data](https://doi.org/10.1371/journal.pcbi.1003542)
--   [Ten simple rules for responsible big data research](https://doi.org/10.1371/journal.pcbi.1005399)
+  - [Ten Simple Rules for Reproducible Computational Research](https://doi.org/10.1371/journal.pcbi.1003285) 
+  - [Toward standard practices for sharing computer code and programs in neuroscience](https://doi.org/10.1038/nn.4550).
+  - [Software in reproducible research: advice and best practice collected from experiences at the collaborations workshop](https://doi.org/10.1145/2618137.2618140)
+  - [Ten Simple Rules for the Care and Feeding of Scientific Data](https://doi.org/10.1371/journal.pcbi.1003542)
+  - [Ten simple rules for responsible big data research](https://doi.org/10.1371/journal.pcbi.1005399)
+* Research Software development
+  - [Software Sustainablity Institute's developer guides](https://software.ac.uk/resources/guides/guides-developers)
+  - [Four simple recommendations to encourage best practices in research software](https://doi.org/10.12688/f1000research.11407.1)
+  - [Ten Simple Rules for Developing Usable Software in Computational Biology](https://doi.org/10.1371/journal.pcbi.1005265)
+  - [Ten simple rules for documenting scientific software](https://doi.org/10.1371/journal.pcbi.1006561)
+
 
 ## White-papers and related publications
 
