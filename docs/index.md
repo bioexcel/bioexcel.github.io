@@ -128,7 +128,10 @@ The individual [codes](https://bioexcel.eu/software/) and tools developed by, co
   - [Common Workflow Language with BioExcel Building Blocks](https://mmb.irbbarcelona.org/biobb/availability/tutorials/cwl)
   - [Common Workflow Language for Bioinformatics](https://www.melbournebioinformatics.org.au/tutorials/tutorials/cwl/cwl/) by [Melbourne Bioinformatics
 ](https://www.melbournebioinformatics.org.au/) 
-  
+* Sharing reproducible Computational software/workflows (From literature)
+  - [FAIR Computational Workflows](https://doi.org/10.1162/dint_a_00033)
+  - [Streamlining data-intensive biology with workflow systems](https://doi.org/10.1093/gigascience/giaa140)
+
 ## White-papers and related publications
 
 These publications and white-papers by BioExcel authors include aspects of best-practice guidance:
