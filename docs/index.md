@@ -88,6 +88,7 @@ The individual [codes](https://bioexcel.eu/software/) and tools developed by, co
   - [GROMACS reference manual](http://manual.gromacs.org/current/reference-manual/index.html)
   - [GROMACS: Getting good performance from mdrun](http://manual.gromacs.org/current/user-guide/mdrun-performance.html)
   - [GROMACS: From Proteins to Perturbed Hamiltonians: A Suite of Tutorials for the GROMACS-2018 Molecular Simulation Package](https://doi.org/10.33011/livecoms.1.1.5068)
+  - [NVIDIA: Creating Faster Molecular Dynamics Simulations with GROMACS 2020](https://developer.nvidia.com/blog/creating-faster-molecular-dynamics-simulations-with-gromacs-2020/)
 * [HADDOCK](https://www.bonvinlab.org/software/#haddock)
   - [HADDOCK 2.2 Manual](https://www.bonvinlab.org/software/haddock2.2/manual/)
   - [HADDOCK 2.4 Manual](https://www.bonvinlab.org/software/haddock2.4/manual/)
