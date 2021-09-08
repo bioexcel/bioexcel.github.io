@@ -120,6 +120,7 @@ The individual [codes](https://bioexcel.eu/software/) and tools developed by, co
   - [BioBB tutorials](http://mmb.irbbarcelona.org/biobb/availability/tutorials)
   - [BioBB workflows](http://mmb.irbbarcelona.org/biobb/workflows) (incl workflow tutorials)
   - [BioBB source/docs](http://mmb.irbbarcelona.org/biobb/availability/source) per building block
+  - [Building additional BioExcel Building Blocks](https://mmb.irbbarcelona.org/biobb/documentation/build)
 * [Common Workflow Language](https://www.commonwl.org/)
   - [Common Workflow Language User Guide](https://www.commonwl.org/user_guide/) [[suggest changes](https://github.com/common-workflow-language/user_guide/)]
   - [Common Workflow Language User Guide: Recommended Practices](https://www.commonwl.org/user_guide/rec-practices/)
