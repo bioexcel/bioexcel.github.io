@@ -123,6 +123,7 @@ The individual [codes](https://bioexcel.eu/software/) and tools developed by, co
   - [Building additional BioExcel Building Blocks](https://mmb.irbbarcelona.org/biobb/documentation/build)
 * [Common Workflow Language](https://www.commonwl.org/)
   - [Common Workflow Language User Guide](https://www.commonwl.org/user_guide/) [[suggest changes](https://github.com/common-workflow-language/user_guide/)]
+  - [Introduction to Workflows with Common Workflow Language](https://carpentries-incubator.github.io/cwl-novice-tutorial/) (Carpentries incubator)
   - [Common Workflow Language User Guide: Recommended Practices](https://www.commonwl.org/user_guide/rec-practices/)
   - [Dockstore: CWL Best Practices](https://docs.dockstore.org/en/develop/advanced-topics/best-practices/best-practices.html)
   - [Arvados: Best Practices for writing CWL](https://doc.arvados.org/v1.4/user/cwl/cwl-style.html)
