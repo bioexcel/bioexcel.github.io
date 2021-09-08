@@ -16,6 +16,7 @@ For further information, see the [https://bioexcel.eu](bioexcel.eu) website.
 
 These _best practice guides_ have been developed by BioExcel:
 
+* [Biomolecular simulation data](https://rdmkit.elixir-europe.org/biomolecular_simulation_data.html#storing-and-sharing-the-data-from-biomolecular-simulations) in [RDMkit](https://rdmkit.elixir-europe.org/) (ELIXIR Research Data Management Kit) [[suggest changes](https://rdmkit.elixir-europe.org/how_to_contribute.html)]
 * [Biomolecular QM/MM with CP2K](https://docs.bioexcel.eu/qmmm_bpg/) [[suggest changes](https://github.com/bioexcel/qmmm_bpg)]
 * [GROMACS Best Practice Guide](https://docs.bioexcel.eu/gromacs_bpg/)  [[suggest changes](https://github.com/bioexcel/gromacs_bpg)] 
   - incl. [GROMACS Performance Cookbook](https://docs.bioexcel.eu/gromacs_bpg/en/master/cookbook/cookbook.html)
