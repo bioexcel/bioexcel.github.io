@@ -122,6 +122,7 @@ The individual [codes](https://bioexcel.eu/software/) and tools developed by, co
   - [BioBB workflows](http://mmb.irbbarcelona.org/biobb/workflows) (incl workflow tutorials)
   - [BioBB source/docs](http://mmb.irbbarcelona.org/biobb/availability/source) per building block
   - [Building additional BioExcel Building Blocks](https://mmb.irbbarcelona.org/biobb/documentation/build)
+  - [Tutorial: Common Workflow Language with BioExcel Building Blocks](https://mmb.irbbarcelona.org/biobb/availability/tutorials/cwl)
 * [Common Workflow Language](https://www.commonwl.org/)
   - [Common Workflow Language User Guide](https://www.commonwl.org/user_guide/) [[suggest changes](https://github.com/common-workflow-language/user_guide/)]
   - [Introduction to Workflows with Common Workflow Language](https://carpentries-incubator.github.io/cwl-novice-tutorial/) (Carpentries incubator)
@@ -129,8 +130,8 @@ The individual [codes](https://bioexcel.eu/software/) and tools developed by, co
   - [Dockstore: CWL Best Practices](https://docs.dockstore.org/en/develop/advanced-topics/best-practices/best-practices.html)
   - [Arvados: Best Practices for writing CWL](https://doc.arvados.org/v1.4/user/cwl/cwl-style.html)
   - [CWL 1.2 specification](https://www.commonwl.org/v1.2/)
-  - [Common Workflow Language with BioExcel Building Blocks](https://mmb.irbbarcelona.org/biobb/availability/tutorials/cwl)
-  - [Common Workflow Language for Bioinformatics](https://www.melbournebioinformatics.org.au/tutorials/tutorials/cwl/cwl/) by [Melbourne Bioinformatics
+  - [Tutorial: Common Workflow Language with BioExcel Building Blocks](https://mmb.irbbarcelona.org/biobb/availability/tutorials/cwl)
+  - [Tutorial: Common Workflow Language for Bioinformatics](https://www.melbournebioinformatics.org.au/tutorials/tutorials/cwl/cwl/) by [Melbourne Bioinformatics
 ](https://www.melbournebioinformatics.org.au/) 
 * Sharing reproducible software/workflows/data (From literature)
   - [FAIR Computational Workflows](https://doi.org/10.1162/dint_a_00033)
