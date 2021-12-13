@@ -24,6 +24,7 @@ These _best practice guides_ have been developed by BioExcel:
 * [HADDOCK best practice guide](https://www.bonvinlab.org/software/bpg/) [[suggest changes](https://github.com/haddocking/haddocking.github.io/tree/master/software/bpg)]
 * [How to choose which CWL workflow engine to deploy](/cwl-engine-guide/) [[suggest changes](https://github.com/bioexcel/cwl-engine-guide)]
 * [Packaging BioCompute Objects using RO-Crate](https://biocompute-objects.github.io/bco-ro-crate/) [[suggest changes](https://github.com/biocompute-objects/bco-ro-crate/)]
+* [10 Simple Rules for making a software tool workflow-ready](https://doi.org/10.5281/zenodo.5636487)
 
 These guides are under development:
 * [Primer on workflow packaging and metadata standards](https://docs.google.com/document/d/1XREgfYNi7l4HbdrnXBs7Uv1tMH2AiR435SKjisu4l30/edit#) [[suggest changes](https://docs.google.com/document/d/1XREgfYNi7l4HbdrnXBs7Uv1tMH2AiR435SKjisu4l30/edit)]
@@ -142,12 +143,14 @@ The individual [codes](https://bioexcel.eu/software/) and tools developed by, co
   - [Software in reproducible research: advice and best practice collected from experiences at the collaborations workshop](https://doi.org/10.1145/2618137.2618140)
   - [Ten Simple Rules for the Care and Feeding of Scientific Data](https://doi.org/10.1371/journal.pcbi.1003542)
   - [Ten simple rules for responsible big data research](https://doi.org/10.1371/journal.pcbi.1005399)
+  - [A review of bioinformatic pipeline frameworks ](https://doi.org/10.1093/bib/bbw020)
+  - [Reproducible, scalable, and shareable analysis pipelines with bioinformatics workflow managers](https://doi.org/10.1038/s41592-021-01254-9)
 * Research Software development
   - [Software Sustainablity Institute's developer guides](https://software.ac.uk/resources/guides/guides-developers)
   - [Four simple recommendations to encourage best practices in research software](https://doi.org/10.12688/f1000research.11407.1)
+  - [10 Simple Rules for making a software tool workflow-ready](https://doi.org/10.5281/zenodo.5636487)
   - [Ten Simple Rules for Developing Usable Software in Computational Biology](https://doi.org/10.1371/journal.pcbi.1005265)
   - [Ten simple rules for documenting scientific software](https://doi.org/10.1371/journal.pcbi.1006561)
-
 
 ## White-papers and related publications
 
