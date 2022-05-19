@@ -84,7 +84,7 @@ You can also use the BioExcel forum to suggest changes to the guides.
 The individual [codes](https://bioexcel.eu/software/) and tools developed by, contributed by and used by BioExcel have their own documentation spaces:
 
 * [GROMACS](http://www.gromacs.org/)
-  - [GROMACS documentation](http://manual.gromacs.org/) [[suggest changes](https://github.com/gromacs/gromacs/tree/master/docs)]
+  - [GROMACS documentation](http://manual.gromacs.org/) [[suggest changes](https://gitlab.com/gromacs/gromacs/-/tree/main/docs)]
   - [GROMACS user guide](http://manual.gromacs.org/current/user-guide/index.html)
   - [GROMACS HowTo guides](http://manual.gromacs.org/current/how-to/index.html)
   - [GROMACS reference manual](http://manual.gromacs.org/current/reference-manual/index.html)
