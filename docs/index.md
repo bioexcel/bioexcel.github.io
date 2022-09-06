@@ -29,6 +29,7 @@ These _best practice guides_ have been developed by BioExcel:
 * [Best practices in constant pH MD simulations: accuracy and sampling](https://doi.org/10.26434/chemrxiv-2022-c6lg2)
 * [Accurate Calculation of Free Energy Changes upon Amino Acid Mutation](https://doi.org/10.1007/978-1-4939-8736-8_2) [[preprint](https://www.mpinat.mpg.de/634276/Aldeghi_2019_CMPE.pdf)]
 * [Best Practices for Alchemical Free Energy Calculations](https://doi.org/10.33011/livecoms.2.1.18378)
+* [A protocol for information-driven antibody-antigen modelling with the HADDOCK2.4 webserver](https://arxiv.org/abs/2005.03283)
 
 These guides are under development:
 * [Primer on workflow packaging and metadata standards](https://docs.google.com/document/d/1XREgfYNi7l4HbdrnXBs7Uv1tMH2AiR435SKjisu4l30/edit#) [[suggest changes](https://docs.google.com/document/d/1XREgfYNi7l4HbdrnXBs7Uv1tMH2AiR435SKjisu4l30/edit)]
