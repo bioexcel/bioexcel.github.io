@@ -26,10 +26,12 @@ These _best practice guides_ have been developed by BioExcel:
 * [How to choose which CWL workflow engine to deploy](/cwl-engine-guide/)  [[suggest changes](https://github.com/bioexcel/cwl-engine-guide)]
 * [Packaging BioCompute Objects using RO-Crate](https://biocompute-objects.github.io/bco-ro-crate/)  [[suggest changes](https://github.com/biocompute-objects/bco-ro-crate/)]
 * [10 Simple Rules for making a software tool workflow-ready](https://doi.org/10.5281/zenodo.5636487)
+* [Best practices in constant pH MD simulations: accuracy and sampling](https://doi.org/10.26434/chemrxiv-2022-c6lg2)
+* [Accurate Calculation of Free Energy Changes upon Amino Acid Mutation](https://doi.org/10.1007/978-1-4939-8736-8_2) [[preprint](https://www.mpinat.mpg.de/634276/Aldeghi_2019_CMPE.pdf)]
+* [Best Practices for Alchemical Free Energy Calculations](https://doi.org/10.33011/livecoms.2.1.18378)
 
 These guides are under development:
 * [Primer on workflow packaging and metadata standards](https://docs.google.com/document/d/1XREgfYNi7l4HbdrnXBs7Uv1tMH2AiR435SKjisu4l30/edit#) [[suggest changes](https://docs.google.com/document/d/1XREgfYNi7l4HbdrnXBs7Uv1tMH2AiR435SKjisu4l30/edit)]
-* _Alchemical free energy calculations based on non-equilibrium sampling_
 
 In addition to general best practice guidance the guides reflect experience built up over time using the codes and workflow tools in specific application areas. Individual researchers may therefore need to tailor this guidance to find the best approach in light of their particular circumstances and use cases.  
 
