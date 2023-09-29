@@ -2,13 +2,13 @@
 
 {{ site.description }}
 
-For further information, see the [https://bioexcel.eu](bioexcel.eu) website.
+For further information, see the [https://bioexcel.eu](https://bioexcel.eu) website.
 
 ## BioExcel Knowledge Centre
 
 * [Training resources](https://krc.bioexcel.eu/training)
 * [Competencies](https://krc.bioexcel.eu/competencies)
-* [BioExcel competency framework](https://competency.ebi.ac.uk/framework/bioexcel/2.0)
+* [BioExcel competency framework](https://competency.ebi.ac.uk/framework/bioexcel/3.0)
 
 <!-- TODO: Integrate this page also into krc -->
 
